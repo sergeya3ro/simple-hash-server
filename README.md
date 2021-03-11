@@ -18,13 +18,8 @@ sudo apt-get install libssl-dev
 ## Tutorial
 
 ```python
-cd simple-hash-server/lib
-git clone https://github.com/google/googletest/
-cd ..
-mkdir build
-cd build
-cmake ..
-make all
+chmod +x build_server.sh
+./build_server.sh
 ```
 
 ## Run server:
