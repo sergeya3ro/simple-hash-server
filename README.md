@@ -6,7 +6,7 @@ Default properties:
 local ip: "0.0.0.0"  
 port: "8080"  
 concurrent connections: "20"  
-Use this simple hash-client for testing  
+Use this simple hash-client for testing:  https://github.com/sergeya3ro/simple-test-client
 
 ## Preset
 ```python
