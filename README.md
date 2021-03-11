@@ -1,5 +1,13 @@
 # Hash-TCP-server
 
+## Description
+Simple TCP hash server
+Default properties:
+local ip: "0.0.0.0"
+port: "8080"
+concurrent connections: "20"
+Use this simple hash-client for testing
+
 ## Preset
 ```python
 sudo apt-get install cmake
